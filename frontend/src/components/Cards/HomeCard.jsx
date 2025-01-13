@@ -1,3 +1,5 @@
+import React from "react";
+
 import capitalizeName from "../capitalizeName";
 import { Link } from "react-router-dom";
 
