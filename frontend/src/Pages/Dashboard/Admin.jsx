@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { BsChevronRight } from "react-icons/bs";
 import toast from "react-hot-toast";
-import axios from "axios";
+
 import Header from "../../components/Header";
 import Spinner from "../../components/UI/Spinner";
 import { MdDelete } from "react-icons/md";
