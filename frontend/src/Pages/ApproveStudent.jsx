@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 function ApproveStudent() {
     document.body.style.overflow = 'hidden';
