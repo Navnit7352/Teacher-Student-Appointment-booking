@@ -1,4 +1,4 @@
-
+//
 // index.js or another appropriate file
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import Studentsignup from "./components/Signup/Student";
